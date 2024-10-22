@@ -1,1 +1,8 @@
-# -SberTech-Design-and-development-of-information-systems
+Запуск мониторинга: 
+`./monitor.sh START`
+
+Статус мониторинга: 
+`./monitor.sh STATUS <PID>`
+
+Остановка мониторинга: 
+`./monitor.sh STOP <PID>`
